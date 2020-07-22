@@ -1,0 +1,9 @@
+https://www.educba.com/uses-of-machine-learning/
+https://www.datarobot.com/wiki/deep-learning/#:~:text=Why%20is%20Deep%20Learning%20Important,of%20data%20to%20be%20effective.
+https://www.w3schools.com/python/python_intro.asp
+https://www.geeksforgeeks.org/python-features/ 
+https://www.programiz.com/python-programming/object-oriented-programming 
+https://keras.io/api/models/model/ 
+https://scipy-cookbook.readthedocs.io/items/FittingData.html 
+https://deepai.org/machine-learning-glossary-and-terms 
+https://machinelearningmastery.com/how-to-connect-model-input-data-with-predictions-for-machine-learning/
